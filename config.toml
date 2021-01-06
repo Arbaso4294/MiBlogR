@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://unaconversaciondigital.netlify.app/"
 title = "Una conversación digital"
 theme = "hugo-theme-m10c"
 paginate = 7
