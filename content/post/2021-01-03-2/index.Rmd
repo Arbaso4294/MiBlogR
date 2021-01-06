@@ -1,5 +1,5 @@
 ---
-title: '2.Índice para hacer negocios: Una dura realidad costarricense'
+title: '2.Índice de facilidad para hacer negocios: Una dura realidad costarricense'
 author: "Ariel B."
 date: '2021-01-05'
 #slug: []
@@ -15,7 +15,7 @@ Este índice es calculado por el Banco Mundial, lo realiza para un total de 190 
 
 ![](TOP_20.png)
 
-# **1. Resultados generales**
+# **1.Resultados generales**
 
 - De 190 países, el 66.8% tiene una calificación menor a 71 y solo un 13.2% tiene una puntuación por encima de 79.5.
 
@@ -46,7 +46,7 @@ Este índice es calculado por el Banco Mundial, lo realiza para un total de 190 
   *Insolvencia*|137|34.64
   *Procesos para establecer negocio *|144|79.91
 
-# **2. Desagregando resultados y comparando con la OCDE**
+# **2.Desagregando resultados y comparando con la OCDE**
 
 - Tomando en consideración los países miembros de la OCDE, se vuelve a observar que un alto Índice de facilidad para hacer negocios va acompañado de un PIB per cápita más elevado (hay excepciones muy puntuales).
 
@@ -60,7 +60,7 @@ Este índice es calculado por el Banco Mundial, lo realiza para un total de 190 
 
 ![](RANKING_OCDE_VARIABLE.png)
 
-# **2.1. Puntos de mejora**
+# **2.1.Puntos de mejora**
 
 Manteniendo la comparación con los países de la OCDE, y considerando las variables en las que Costa Rica no destaca, a continuación, describo cuáles son las principales falencias (posibles mejoras) dentro de cada variable:
 
