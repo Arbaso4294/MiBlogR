@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Una conversación digital</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Una conversación digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.¡A lo que vinimos!</title>
+      <link>https://example.com/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2015-07-23-r-rmarkdown/</guid>
+      <description>“A lo que vinimos”, al menos en mi país, frase muy conocida por un notable periodista costarricense llamado Daniel Quirós para iniciar particularmente la narración de un evento, especialmente, un partido de fútbol. Así que, sin más preámbulo, inicio este primer blog con mi presentación personal y luego una breve explicación de sobre ¿qué tratará este blog?
+Hola, mi nombre es Ariel Barrantes, nací en Costa Rica, soy Economista de profesión y poseo una Maestría en Administración de Empresas con énfasis en Finanzas.</description>
+    </item>
+    
+    <item>
+      <title>2.Índice para hacer negocios: Una dura realidad costarricense</title>
+      <link>https://example.com/post/2021-01-03-2/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2021-01-03-2/</guid>
+      <description>En este nuevo año 2021 y con una premisa de un futuro mejor, el siguiente post pretende dar una idea de cuales son algunas pequeñas pero importantes áreas de mejora para volver a dinamizar la actividad económica a traves de un fortalecieminto al sector privado costarricense.
+Para esto, se realizará un análisis sobre el Índice de facilidad para hacer negocios en una economía (Doing Business Index, última publicación 2020), explicando los resultados de Costa Rica en comparación con los 190 países que evalúa el índice, pero también, comparándolo contra los países de la OCDE (ya que CRC pertenece a esta organización), con el fin de tener un panorama sobre son las áreas a trabajar para poder incentivar la creación de negocios en un contexto mundial tan difícil como el que se está viviendo.</description>
+    </item>
+    
+  </channel>
+</rss>

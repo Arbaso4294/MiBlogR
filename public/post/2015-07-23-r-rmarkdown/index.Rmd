@@ -1,0 +1,22 @@
+---
+title: "1.¡A lo que vinimos!"
+author: "Ariel B."
+date: "2021-01-03"
+slug: [1]
+categories: ["R"]
+#tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+*"A lo que vinimos"*, al menos en mi país, frase muy conocida por un notable periodista costarricense llamado *Daniel Quirós* para iniciar particularmente la narración de un evento, especialmente, un partido de fútbol. Así que, sin más preámbulo, inicio este primer blog con mi presentación personal y luego una breve explicación de sobre ¿qué tratará este blog?
+
+Hola, mi nombre es *Ariel Barrantes*, nací en Costa Rica, soy Economista de profesión y poseo una Maestría en Administración de Empresas con énfasis en Finanzas.
+
+La idea de realizar este blog es particularmente para poder mostrar diversa información que puede resultar de su interés, no solamente a nivel nacional, sino incluso internacional. Y bueno, ¿qué tipo de información?
+
+Evidentemente, por mi profesión estará más enfocado a temas **económicos** y **políticos**, pero no descarto escribir sobre otros temas que también me apasionan, por ejemplo: cine (aunque debo de indicar que será una opinión sin fundamento técnico, es decir, como todo un aficionado), deporte, libros, música.
+
+Espero que a lo largo de las distintas publicaciones puedas disfrutarlas tanto como yo al escribirlas y que cada vez que ingreses sientas que estamos teniendo ***“Una conversación digital”***.

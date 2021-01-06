@@ -1,0 +1,101 @@
+---
+title: '2.Índice para hacer negocios: Una dura realidad costarricense'
+author: "Ariel B."
+date: '2021-01-03'
+#slug: []
+#categories: []
+#tags: []
+---
+En este nuevo año 2021 y con una premisa de un futuro mejor, el siguiente post pretende dar una idea de cuales son algunas pequeñas pero importantes áreas de mejora para volver a dinamizar la actividad económica a traves de un fortalecieminto al sector privado costarricense.
+
+Para esto, se realizará un análisis sobre el ***Índice de facilidad para hacer negocios*** en una economía (Doing Business Index, última publicación 2020), explicando los resultados de Costa Rica en comparación con los 190 países que evalúa el índice, pero también, comparándolo contra los países de la OCDE (ya que CRC pertenece a esta organización), con el fin de tener un panorama sobre son las áreas a trabajar para poder incentivar la creación de negocios en un contexto mundial tan difícil como el que se está viviendo.
+
+Este índice es calculado por el Banco Mundial, lo realiza para un total de 190 países y toma en consideración distintas áreas para la evaluación de cada país, a saber: facilidad en procesos, permisos de construcción, obtención de electricidad, protección de pequeños inversionistas, impuestos, registro de la propiedad, obtención de crédito, comercio internacional, contratos, insolvencia. Por su parte, el PIB per cápita^1^ se puede utilizar como un indicador de riqueza de un país y eficiencia de los recursos disponibles por habitante.
+
+![](TOP_20.png)
+
+# **1. Resultados generales**
+
+- De 190 países, el 66.8% tiene una calificación menor a 71 y solo un 13.2% tiene una puntuación por encima de 79.5.
+
+![](HISTOGRAMA_IDB.png)
+
+- Se observa que los países que tienen un alto Índice de facilidad para hacer negocios también presentan el PIB per cápita más elevado (hay excepciones muy puntuales, punto rojo de la gráfica es Costa Rica).
+
+![](DB_PIB_TOTAL.png)
+
+- Costa Rica tuvo una puntuación de 69.24, ubicándose en el puesto 74 de 190 países. 
+
+![](VECINOS_CRC.png)
+
+- De acuerdo con las variables que evalúa el índice, Costa Rica se  destaca en obtención del crédito, obtención de electricidad y registro de la propiedad.
+
+- Sin embargo, presenta graves problemas en las siguientes variables: facilidad en los procesos para establecer un negocio, insolvencia, contratos y protección de pequeños inversionistas.
+
+**Variable del Índice** | **Ranking** | **Puntaje** |
+----|----:|----:|
+  *Obtención Crédito*|15|85.0
+  *Obtención Eléctricidad*|25|88.9
+  *Registro propiedad*|49|74.36
+  *Impuestos*|66|77.99
+  *Permisos de la construcción*|78|70.8
+  *Comercio Internacional*|80|77.6
+  *Protección pequeño inversionista*|110|48.0
+  *Contratos de trabajo*|111|55.19
+  *Insolvencia*|137|34.64
+  *Procesos para establecer negocio *|144|79.91
+
+# **2. Desagregando resultados y comparando con la OCDE**
+
+- Tomando en consideración los países miembros de la OCDE, se vuelve a observar que un alto Índice de facilidad para hacer negocios va acompañado de un PIB per cápita más elevado (hay excepciones muy puntuales).
+
+![](CRC_OCDE_PIB.png)
+
+- Costa Rica ocupa el puesto 37 de 38 países miembros de la OCDE (solo por delante de Grecia). Nueva Zelanda es el líder del ranking y nos tiene una ventaja de 17 puntos en el resultado del índice.
+
+![](RANKING_OCDE.png)
+
+- Facilidad para obtener crédito no se traduce en una mayor facilidad en los procesos para establecer un negocio. 
+
+![](RANKING_OCDE_VARIABLE.png)
+
+# **2.1. Puntos de mejora**
+
+Manteniendo la comparación con los países de la OCDE, y considerando las variables en las que Costa Rica no destaca, a continuación, describo cuáles son las principales falencias (posibles mejoras) dentro de cada variable:
+
+- Respecto a la variable de facilidad de los procedimientos que conlleva realizar un negocio, Costa Rica obtuvo el puesto 38, es decir, se castiga el exceso de trámites burocráticos que tiene nuestro país.
+
+![](PROCEDIMENTOS_OCDE.png)
+
+- Respecto a los temas de insolvencia, es importante notar 2 aspectos en cuanto al proceso judicial costarricense: los acreedores tardan alrededor de 3 años en recuperar su crédito, ocupando el puesto 31 en este apartado (lista encabezada por Irlanda y Japón como los que resuelven más rápido), mientras que se ocupa el puesto 38 respecto al índice que mide el marco legal aplicable a los procesos judiciales de liquidación y reorganización, así como el grado en que se han implementado las mejores prácticas legales referentes a temas de insolvencia en cada economía (Alemania y Estados Unidos encabezan la lista). Acá hace eco a un llamado de atención al sistema tán rígido que tiene nuestro país en procesos judiciales.
+
+![](LEGAL_OCDE.png)
+
+- Por último, en materia de protección al inversionista, queda expuesto el desafío país en incentivar la profundidad, accionar, participación y fortalecimiento de un gobierno corporativo desde pequeñas hasta grandes empresas. Destacan 3 índices importantes:
+
+   - El índice de los derechos de los accionistas, que mide el papel que los accionistas tienen en las decisiones clave de una empresa, aquí Costa Rica ocupa el puesto 37 (empatado con Estados Unidos).
+
+   - El índice de grado de propiedad y control, mide las reglas que rigen la estructura y el cambio en el control de las empresas, por ejemplo: que la misma persona no pueda ser nombrada Gerente y presidente del consejo administrativo. En otras palabras, mide el grado de control de conflictos de interés e independencia de las partes de una empresa. Costa Rica ocupa el puesto 33, al lado de países como Bélgica e Irlanda.  
+
+   - El índice que mide el alcance de la transparencia corporativa, mide el nivel de información que las empresas deben compartir con respecto a los miembros directivos, altos ejecutivos y auditorías. En este caso, Costa Rica ocupa el puesto 38.
+
+![](INVERSIONISTA_OCDE_1.png)
+![](INVERSIONISTA_OCDE_2.png)
+
+# **Conclusiones**
+
+- Los resultados son concisos y coherente con lo esperado, las economías que tienen altos puntajes del Índice de facilidad para hacer negocios tienen un mayor bienestar económico. 
+
+- El desencadenamiento productivo que conlleva un alto Índice de facilidad para hacer negocios implica un alto nivel de la actividad empresarial, que repercute en la generación de más y mejores empleos, hay una mayor formalización laboral, se general más ingresos para las familias, implicando un aumento del ahorro y del consumo.
+
+- Queda en evidencia el fortalecimiento de áreas, no solamente económicas, sino judiciales, burocráticas e institucionales.
+
+- En un contexto como el que estamos viviendo actualmente, el fortalecimiento e impulso que se le pueda dar al sector privado para la creación de nuevos negocios como organismo generador de riqueza, es vital para una salida más rápida de la actual crisis económica en la que se vive.
+
+*“La Gran Depresión, como la mayoría de periodos con grave desempleo, fue* *producido por la mala gestión del gobierno más que por cualquier* *inestabilidad inherente a la economía privada”* 
+*Milton Friedman.*
+
+^1^***PIB per cápita***: PIB per cápita a precios contantes del 2010 en dólares, con corte a 2019, cuya fuente es el Banco Mundial. Su cálculo es el PIB del país/número de población del país.
+
+
+

@@ -1,0 +1,52 @@
+baseURL = "https://example.com"
+title = "Una conversación digital"
+theme = "hugo-theme-m10c"
+paginate = 7
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+#  [[menu.main]]
+#   identifier = "tags"
+#    name = "Tags"
+#    url = "/tags/"
+
+[params]
+
+  author = "Ariel B."
+  description = "Un espacio donde conversaremos temas económicos, políticos, culturales, entre otros."
+  menu_item_separator = " - "
+  avatar= "image_perfil.jpg"
+
+#  [[params.social]]
+#    name = "linkedin"
+#    url = "https://www.linkedin.com/in/ariel-barrantes-813968158/"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/Arbaso4294"
+
+  # Brown theme
+  #[params.style]
+  #  darkestColor = "#463625"
+  #  darkColor = "#2a3738"
+  #  primaryColor = "#eeee6a"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#ffffff"
+
+  # Green theme
+  #[params.style]
+  #  darkestColor = "#315659"
+  #  darkColor = "#253031"
+  #  primaryColor = "#dad865"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#fff"
+
+  # Red and black theme
+  [params.style]
+  #  darkestColor = "#d35050"
+    darkColor = "#212121"
+    primaryColor = "#ffffff"
+    lightColor = "#a2a2a2"
+    lightestColor = "#d3d3d3"
