@@ -9,6 +9,7 @@ date: '2021-04-04'
 *“El problema real de la pobreza no es un problema de "distribución" sino de producción. La única forma permanente de curar la pobreza es incrementar el poder adquisitivo de los pobres”*
 *Henry Hazlitt.*
 
+
 ```{r, include=FALSE}
 #########################################
 #LIBRERIA
