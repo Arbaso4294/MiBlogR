@@ -1,65 +1,105 @@
 ---
-title: "5.Inflación Transitoria (sarcasmo)"
+title: "5.Enero-23: la antesala de una inflación más persistente?"
 author: "Ariel B."
-date: "2023-02-20"
+date: "2023-02-25"
 ---
 *“El requisito más importante de un sistema monetario ordenado es, pues, la limitación de la cantidad de dinero frente a las tendencias inflacionistas, que estén siempre al acecho.”*
 *WILHELM RÖPKE*
 
 <div style="text-align: justify">
 
-# **a.Enero-23: la antesala de una inflación más persistente?**
+# **a.Datos matan relatos**
 
-He leído sobre un pedido que le hacen al BCCR de disminuir la TPM, debido a una inflación en tendencia desaceleración. Acá 6 puntos, en los cuales considero que potencialmente estamos ante una alegría que durará muy poco. 
+He leído sobre un pedido que le hacen al BCCR de disminuir la TPM, debido a una inflación en tendencia desaceleración. Acá 6 puntos, en los cuales considero que potencialmente estamos ante una alegría que durará poco. 
 
-1.	En términos reales, es hasta dic-22 que la TPM se encuentra en terreno neutral (+1 p.p. respecto al IPC), y en un nivel menor al que el BCCR la ha ubicado históricamente.
+1.	En primer lugar, hay que tener en consideración que, en términos reales, es hasta dic-22 que la TPM se encuentra en terreno "relativamente restrictivo" (+1 p.p. por encima de la inflación general); sin embargo, es un nivel ligeramente menor al que ha estado ubicado anteriormente.
 
 ![](Imagen1.png)
 
-2.	El IPC e Inflación Subyacente (ISI) a pesar de una desaceleración en términos interanuales; a nivel mensual, especialmente la subyacente, retoma un fuerte aumento. ¿Se vuelve la inflación más pegajosa?
+2.	El IPC e Inflación Subyacente (ISI) a pesar de una desaceleración en términos interanuales; a nivel mensual, especialmente la subyacente, retoma un fuerte aumento. Es decir, la inflación que excluye los productos y servicios cuyos precios son más volátiles, tuvo un mayor incremento mensual que la inflación general. Otro aspecto importante, es que la ISI, desde may-21 no muestra señales de desinflación mensual.
 
 ![](Imagen2.png)
 
-3.	Para los que defienden que la inflación es unicamente un efecto importado (no coíncido del todo), el índice de precios de materias primas en términos mensuales después de 7 meses en deflación, vuelve a repuntar.
+3.	Para los que defienden que la inflación es principalmente un efecto importado (no coincido del todo), el índice de precios de materias primas en términos mensuales después de 7 meses en deflación, vuelve a repuntar.
 
 ![](Imagen3.png)
 
-4.	El IPP de servicios en enero tuvo un fuerte rebote; mientras que, el de manufactura prácticamente deja a un lado la tendencia deflacionista.
+4.	El IPP de servicios en enero tuvo un fuerte rebote; mientras que, el de manufactura en términos mensuales prácticamente deja a un lado la tendencia deflacionista.
 
 ![](Imagen4.png)
 
-5.	El mercado ancla la expectativa de inflación a 1 año cercana al 5%.
+5.	La expectativa de inflación a 1 año ya no cae con la misma fuerza que venía precedida. En ene-23 es cercana al 5%.
 
 ![](Imagen5.png)
 
-6.	Si agregamos el siguiente coctel, da la sensación de que estamos próximos a ver repuntes que caídas en la inflación: 
-a.	Principal importador de materia prima del mundo vuelve a prender motores (China).
-b.	Tensiones geopolíticas en ascenso.
-c.	Rusia reduce producción de petróleo y la OPEP no la compensa.
-d.	Las reservas de petróleo que ha estado inyectando EE.UU. en niveles mínimos.
-e.	Inflación externa principales socios comerciales a un ritmo de disminución más lento.
-f.	Tasas de desempleo de las principales economías en niveles de pleno empleo.
+6.	Hay todo un coctel internacional, que se está materializando, dificultando la lucha por revertir los altos niveles de inflación:
 
+- *a.	Principal importador de materia prima del mundo vuelve a prender motores (China)*
+Bueno para el crecimiento, pero malo para la inflación...
 
-Viendo las proyecciones del BCCR, si a pesar de mantener la TPM alta por un tiempo, esperan un crecimiento entorno al 3%, ¿cuál es la prisa que tendría el BCCR de bajar la TPM teniendo la inflación tan alta?
+- *b.	Tensiones geopolíticas en ascenso* 
 
-La reducción en la TPM considero que debería darse en el momento en que la inflación general como subyacente entren al terreno del rango meta de manera sostenida; y claro, siempre manteniendo una política monetaria como mínimo neutra (TPM real 1%).
+La globalización, que tanto nos benefició para adquirir productos y servicios a un mejor precio está en deterioro, y las medidas proteccionistas son mayores. 
 
-Debería de ser la meta de primer orden, devolver la inflación al rango objetivo. Durante esta primer década, la inflación acumuada supera el 12%, mientras que el salario real ha caído cerca de un 5%.
+Producto de la guerra Rusia - Ucrania, se han formado 2 bloques económicos: 
 
-![](Imagen6.png)
+  - Rusia - China - India.
+  - Estados Unidos - Europa.
+
+La guerra Rusia - Ucrania no tiene síntomas de una salida próxima, al contrario, las tensiones han aumentado.
+
+- *c.	Rusia reduce producción de petróleo y la OPEP no la compensa*
+
+Rusia recorta en enero la producción de petróleo en 500 mil barriles diarios, la OPEP en oct-22 redujo en 2 millones la producción de petróleo diario. 
+
+- *d.	Las reservas de petróleo que ha estado inyectando EE.UU. en niveles mínimos de hace 30 años*
+
+En algún punto va a tener que dejar de inyectar este petróleo y recomponerlo, afectando la oferta y por lo tanto, se elevaría el precio. A esto, hay que sumarle el recorte en la producción de petróleo tanto de la OPEP como de Rusia (2 millones y 500 mil barriles diarios).
+
+![](Imagen8.jpg)
+
+- *e.	Inflación externa de principales socios comerciales a un ritmo de disminución más lento*
+
+La inflación subyacente en Europa aún no toca techo; mientras que la medida favorita de inflación que sigue la FED, el PCE (Personal Consumption Expenditures), rebota en ene-23.
+
+![](Imagen7.png)
+
+- *f.	Tasas de desempleo de las principales economías en niveles de pleno empleo.*
+
+En Estados Unidos como en Europa, las tasas de desempleo están históricamente bajas, prácticamente en pleno empleo. Para tener una idea, por cada trabajador hay 2 puestos de trabajo. Esto brinda un mayor poder de negociación salarial al trabajador, repercutiendo en un costo mayor, y por ende, en futuras filtraciones hacia la inflación. 
 
 # **b.Conclusiones**
 
-Los bancos centrales del mundo están viendo una panacea: incrementan las tasas de política monetaria y reducen la liquidez del sistema a una velocidad nunca vista, y a pesar de ello, visualizan una “pequeña desaceleración económica”, sin entrar, si quiera a una recesión, y en menos de 2 años volver al nivel deseado la inflación.
+- Hoy la inflación está lejísimos del nivel objetivo medio (3%). En perspectiva, un 255% por encima de dicho nivel.
 
-Si esto es así, si a pesar de todo el coctel que apunta a una persistencia en el problema inicial, a todos los banqueros centrales deberían de darles el Premio Nobel de Economía, lograron sacar a flote sin grandes daños la economía, a pesar de que cuando se hizo algo similar en el pasado, trajo grandes consecuencias negativas.
+- ¿Tiene el BCCR un problema de inflación? Estira tus 2 brazos, formando una cruz, y te darás cuenta de la magnitud del problema que se tiene.
 
-Personalmente, no creo en esa panacea, y soy consciente del peligro que esto lleva para el crecimiento económico, pero creo que esa es la meta de los bancos centrales del mundo, necesitan provocar esa ansiada deflación, y esto no se logra si no se sacrifica la economía y destrucción de empleo, hasta ese momento veremos el tan ansiado Pivote. 
+- Hay un consenso que, con esta desaceleración de la inflación, el BCCR debería de disminuir la TPM. ¿Creo que está mal el consenso? Sí, ¿por qué? el principal objetivo del BCCR es mantener una inflación estable, y hoy la tiene en las nubes, y los datos muestran que hay señales de que esto aún no haya terminado.
 
-A no ser que te creas en verdad que +875 puntos básicos (p.b.) en CRC, +500 p.b. en EE.UU., +400 p.b. en Europa, +300 p.b. en Reino Unido y así sucesivamente en el mundo, no tendrán consecuencias graves en la economía...
+- El BCCR proyecta una "leve" desaceleración económica que nos llevaría a crecer 2.7% en 2023 (4.3% en 2022) y 3.5% en 2024. Con lo cual, da la sensación de que no hay prisa por una disminución en las tasas de interés, si el crecimiento no lo está llevando a niveles peligrosos... 
+
+- Los bancos centrales del mundo están viendo una panacea: incrementan las tasas de política monetaria y reducen la liquidez del sistema a una velocidad nunca vista, y a pesar de ello, visualizan una “pequeña desaceleración económica”, sin entrar, si quiera a una recesión, y en menos de 2 años volver al nivel deseado la inflación.
+
+- Si esto es así, si a pesar de todo el coctel que apunta a una persistencia en el problema inicial, a todos los banqueros centrales deberían de darles el Premio Nobel de Economía, lograron sacar a flote sin grandes daños la economía, a pesar de que cuando se hizo algo similar en el pasado, trajo grandes consecuencias negativas.
+
+- Ahora, ¿mantener las TPM en niveles tan altos puede provocar un problema mayor, más severo? POR SUPUESTO QUE SÍ, pero es que hoy no tienen más opción, ¿por qué? Porque este proceso de ajuste se debió empezar como mucho, 1 año antes, se entró tarde a combatir la inflación, y hoy se tiene que actuar con presura y aceptando las implicaciones económicas... 
+
+- Soy consciente del peligro que esto lleva para el crecimiento económico, pero creo que esa es la meta de los bancos centrales, necesitan provocar esa ansiada deflación, y esto no se logra si no se sacrifica la economía y destrucción de empleo, hasta ese momento, veremos el tan ansiado Pivote. ¿Por qué pienso así? Porque nunca en la historia se ha producido lo contrario... 
+
+- A no ser que te creas en verdad que +800 puntos básicos (p.b.) en CRC, +500 p.b. en EE.UU., +400 p.b. en Europa, +300 p.b. en Reino Unido y así sucesivamente en el mundo, no tendrán consecuencias graves en la economía...
+
+- En síntesis, creo que hasta que no provoquen un daño mayor al de la inflación, la postura actual de política monetaria no cambiaria.
 
 
-***Nota aclaratoria***: la fuente de los datos corresponde al BCCR,  los gráficos son elaboración propia.
+***Nota***: la fuente de los datos corresponde al BCCR,  los gráficos son elaboración propia.
+
+***Glosario***: 
+
+- TPM: Tasa de Política Monetaria
+- IPC: Índice de precios al consumidor
+- ISI: Inflación subyacente
+- IPP Man: Índice de Precios al Productor de Manufactura
+- IPP Ser: Índice de Precios al Productor de Servicios
+- p.b.: puntos básicos
 
 <div/>
