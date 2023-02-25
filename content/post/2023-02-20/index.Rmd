@@ -6,25 +6,6 @@ date: "2023-02-20"
 *“El requisito más importante de un sistema monetario ordenado es, pues, la limitación de la cantidad de dinero frente a las tendencias inflacionistas, que estén siempre al acecho.”*
 *WILHELM RÖPKE*
 
-```{r, include=FALSE}
-#########################################
-#LIBRERIA
-#########################################
-
-library(readr)
-library(lubridate)
-library(dplyr)
-library(ggplot2)
-library(zoo)
-library(dygraphs)
-library(plotly)
-library(scales)
-library(tidyr)
-library(gridExtra)
-library(kableExtra)
-
-```
-
 <div style="text-align: justify">
 
 # **a.Enero-23: la antesala de una inflación más persistente?**
