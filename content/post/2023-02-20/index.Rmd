@@ -1,0 +1,84 @@
+---
+title: "5.Inflación Transitoria (sarcasmo)"
+author: "Ariel B."
+date: "2023-02-20"
+---
+*“El requisito más importante de un sistema monetario ordenado es, pues, la limitación de la cantidad de dinero frente a las tendencias inflacionistas, que estén siempre al acecho.”*
+*WILHELM RÖPKE*
+
+```{r, include=FALSE}
+#########################################
+#LIBRERIA
+#########################################
+
+library(readr)
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+library(zoo)
+library(dygraphs)
+library(plotly)
+library(scales)
+library(tidyr)
+library(gridExtra)
+library(kableExtra)
+
+```
+
+<div style="text-align: justify">
+
+# **a.Enero-23: la antesala de una inflación más persistente?**
+
+He leído sobre un pedido que le hacen al BCCR de disminuir la TPM, debido a una inflación en tendencia desaceleración. Acá 6 puntos, en los cuales considero que potencialmente estamos ante una alegría que durará muy poco. 
+
+1.	En términos reales, es hasta dic-22 que la TPM se encuentra en terreno neutral (+1 p.p. respecto al IPC), y en un nivel menor al que el BCCR la ha ubicado históricamente.
+
+![](Imagen1.png)
+
+2.	El IPC e Inflación Subyacente (ISI) a pesar de una desaceleración en términos interanuales; a nivel mensual, especialmente la subyacente, retoma un fuerte aumento. ¿Se vuelve la inflación más pegajosa?
+
+![](Imagen2.png)
+
+3.	Para los que defienden que la inflación es unicamente un efecto importado (no coíncido del todo), el índice de precios de materias primas en términos mensuales después de 7 meses en deflación, vuelve a repuntar.
+
+![](Imagen3.png)
+
+4.	El IPP de servicios en enero tuvo un fuerte rebote; mientras que, el de manufactura prácticamente deja a un lado la tendencia deflacionista.
+
+![](Imagen4.png)
+
+5.	El mercado ancla la expectativa de inflación a 1 año cercana al 5%.
+
+![](Imagen5.png)
+
+6.	Si agregamos el siguiente coctel, da la sensación de que estamos próximos a ver repuntes que caídas en la inflación: 
+a.	Principal importador de materia prima del mundo vuelve a prender motores (China).
+b.	Tensiones geopolíticas en ascenso.
+c.	Rusia reduce producción de petróleo y la OPEP no la compensa.
+d.	Las reservas de petróleo que ha estado inyectando EE.UU. en niveles mínimos.
+e.	Inflación externa principales socios comerciales a un ritmo de disminución más lento.
+f.	Tasas de desempleo de las principales economías en niveles de pleno empleo.
+
+
+Viendo las proyecciones del BCCR, si a pesar de mantener la TPM alta por un tiempo, esperan un crecimiento entorno al 3%, ¿cuál es la prisa que tendría el BCCR de bajar la TPM teniendo la inflación tan alta?
+
+La reducción en la TPM considero que debería darse en el momento en que la inflación general como subyacente entren al terreno del rango meta de manera sostenida; y claro, siempre manteniendo una política monetaria como mínimo neutra (TPM real 1%).
+
+Debería de ser la meta de primer orden, devolver la inflación al rango objetivo. Durante esta primer década, la inflación acumuada supera el 12%, mientras que el salario real ha caído cerca de un 5%.
+
+![](Imagen6.png)
+
+# **b.Conclusiones**
+
+Los bancos centrales del mundo están viendo una panacea: incrementan las tasas de política monetaria y reducen la liquidez del sistema a una velocidad nunca vista, y a pesar de ello, visualizan una “pequeña desaceleración económica”, sin entrar, si quiera a una recesión, y en menos de 2 años volver al nivel deseado la inflación.
+
+Si esto es así, si a pesar de todo el coctel que apunta a una persistencia en el problema inicial, a todos los banqueros centrales deberían de darles el Premio Nobel de Economía, lograron sacar a flote sin grandes daños la economía, a pesar de que cuando se hizo algo similar en el pasado, trajo grandes consecuencias negativas.
+
+Personalmente, no creo en esa panacea, y soy consciente del peligro que esto lleva para el crecimiento económico, pero creo que esa es la meta de los bancos centrales del mundo, necesitan provocar esa ansiada deflación, y esto no se logra si no se sacrifica la economía y destrucción de empleo, hasta ese momento veremos el tan ansiado Pivote. 
+
+A no ser que te creas en verdad que +875 puntos básicos (p.b.) en CRC, +500 p.b. en EE.UU., +400 p.b. en Europa, +300 p.b. en Reino Unido y así sucesivamente en el mundo, no tendrán consecuencias graves en la economía...
+
+
+***Nota aclaratoria***: la fuente de los datos corresponde al BCCR,  los gráficos son elaboración propia.
+
+<div/>
