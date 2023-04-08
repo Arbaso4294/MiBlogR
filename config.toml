@@ -18,7 +18,7 @@ paginate = 7
   author = "Ariel B."
   description = "Un espacio donde conversaremos temas económicos, políticos, culturales, entre otros."
   menu_item_separator = " - "
-  avatar= "image_perfil.jpg"
+  avatar= "3.jpg"
 
 #  [[params.social]]
 #    name = "linkedin"
